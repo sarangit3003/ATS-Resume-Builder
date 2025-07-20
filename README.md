@@ -15,20 +15,8 @@ This is web application to create a resume easily by filling forms and preview t
 - To download click on preview and download pdf button.
 - Choose save as pdf.
 - You can customize PDF output properties such as margin and scale.
-- You can use the website on different devices
-
-### Screenshots
-
-
-https://user-images.githubusercontent.com/61889578/230498211-1f729212-d171-4260-982e-d833ea314b9d.mp4
-
-#### This is an example 
-![example](https://user-images.githubusercontent.com/61889578/230504183-5ebff639-1244-4a88-a631-dfac715c959d.jpg)
-
-
-### Live Preview
-Feel free to visit [Resume Creator website](https://mohamad-khalid.github.io/Resume-Creator/) , try it and send me feedback. 
-
+- You can use the website on different devices.
+- 
 ### Updates
 - Update #1
   - Reorder the sections as you want.
